@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2018_February_Contest__Bronze_Problem_2__Hoofball)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2018_February_Contest__Bronze_Problem_2__Hoofball main.cpp)

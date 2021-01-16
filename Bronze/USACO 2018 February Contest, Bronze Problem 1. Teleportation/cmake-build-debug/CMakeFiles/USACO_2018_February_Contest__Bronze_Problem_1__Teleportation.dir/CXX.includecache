@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/USACO 2018 February Contest, Bronze Problem 1. Teleportation/main.cpp
+iostream
+-
+stdio.h
+-
+math.h
+-
+fstream
+-
+

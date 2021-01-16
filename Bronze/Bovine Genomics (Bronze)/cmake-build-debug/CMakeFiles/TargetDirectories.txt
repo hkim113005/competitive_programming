@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Bovine Genomics (Bronze)/cmake-build-debug/CMakeFiles/Bovine_Genomics__Bronze_.dir
+C:/Users/hyung/CLionProjects/Bovine Genomics (Bronze)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Bovine Genomics (Bronze)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

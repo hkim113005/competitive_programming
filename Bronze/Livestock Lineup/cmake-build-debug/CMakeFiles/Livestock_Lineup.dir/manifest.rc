@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/hyung/CLionProjects/Livestock Lineup/cmake-build-debug/CMakeFiles/Livestock_Lineup.dir/embed.manifest"

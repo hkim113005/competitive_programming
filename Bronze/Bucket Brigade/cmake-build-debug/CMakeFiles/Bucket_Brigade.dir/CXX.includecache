@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/Bucket Brigade/sub.cpp
+sub.h
+C:/Users/hyung/CLionProjects/Bucket Brigade/sub.h
+stdio.h
+-
+
+C:/Users/hyung/CLionProjects/Bucket Brigade/sub.h
+

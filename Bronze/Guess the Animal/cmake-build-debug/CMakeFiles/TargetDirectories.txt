@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Guess the Animal/cmake-build-debug/CMakeFiles/Guess_the_Animal.dir
+C:/Users/hyung/CLionProjects/Guess the Animal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Guess the Animal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

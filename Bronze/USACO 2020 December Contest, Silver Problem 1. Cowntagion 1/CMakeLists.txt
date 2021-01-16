@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2020_December_Contest__Silver_Problem_1__Cowntagion_1)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2020_December_Contest__Silver_Problem_1__Cowntagion_1 main.cpp)

@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/hyung/CLionProjects/USACO 2018 January Contest Billboard 2/cmake-build-debug/CMakeFiles/USACO_2017_January_Contest_Billboard_2.dir/embed.manifest"

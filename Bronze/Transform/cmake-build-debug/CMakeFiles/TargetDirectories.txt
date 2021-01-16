@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Transform/cmake-build-debug/CMakeFiles/Transform.dir
+C:/Users/hyung/CLionProjects/Transform/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Transform/cmake-build-debug/CMakeFiles/rebuild_cache.dir

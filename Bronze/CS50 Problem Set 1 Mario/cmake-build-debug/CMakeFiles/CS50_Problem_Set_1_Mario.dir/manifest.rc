@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/hyung/CLionProjects/CS50 Problem Set 1 Mario/cmake-build-debug/CMakeFiles/CS50_Problem_Set_1_Mario.dir/embed.manifest"

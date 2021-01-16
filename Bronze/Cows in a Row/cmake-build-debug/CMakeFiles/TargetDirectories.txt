@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Cows in a Row/cmake-build-debug/CMakeFiles/Cows_in_a_Row.dir
+C:/Users/hyung/CLionProjects/Cows in a Row/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Cows in a Row/cmake-build-debug/CMakeFiles/rebuild_cache.dir

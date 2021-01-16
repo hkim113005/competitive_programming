@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2017_December_Contest__Bronze_Problem_3__Milk_Measurement)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2017_December_Contest__Bronze_Problem_3__Milk_Measurement main.cpp)

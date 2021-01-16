@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACO Training 1.3 Milking Cows/cmake-build-debug/CMakeFiles/USACO_Training_1_3_Milking_Cows.dir
+C:/Users/hyung/CLionProjects/USACO Training 1.3 Milking Cows/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO Training 1.3 Milking Cows/cmake-build-debug/CMakeFiles/rebuild_cache.dir

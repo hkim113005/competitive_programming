@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Goldilocks and the N Cows 2/cmake-build-debug/CMakeFiles/Goldilocks_and_the_N_Cows_2.dir
+C:/Users/hyung/CLionProjects/Goldilocks and the N Cows 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Goldilocks and the N Cows 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACO 2015 US Open, Bronze Problem 2. Bessie Gets Even/cmake-build-debug/CMakeFiles/USACO_2015_US_Open__Bronze_Problem_2__Bessie_Gets_Even.dir
+C:/Users/hyung/CLionProjects/USACO 2015 US Open, Bronze Problem 2. Bessie Gets Even/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO 2015 US Open, Bronze Problem 2. Bessie Gets Even/cmake-build-debug/CMakeFiles/rebuild_cache.dir

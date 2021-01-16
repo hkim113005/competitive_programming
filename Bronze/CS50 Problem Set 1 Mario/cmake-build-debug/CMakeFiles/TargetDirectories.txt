@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/CS50 Problem Set 1 Mario/cmake-build-debug/CMakeFiles/CS50_Problem_Set_1_Mario.dir
+C:/Users/hyung/CLionProjects/CS50 Problem Set 1 Mario/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/CS50 Problem Set 1 Mario/cmake-build-debug/CMakeFiles/rebuild_cache.dir

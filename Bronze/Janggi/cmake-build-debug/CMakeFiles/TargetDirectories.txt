@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Janggi/cmake-build-debug/CMakeFiles/Janggi.dir
+C:/Users/hyung/CLionProjects/Janggi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Janggi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

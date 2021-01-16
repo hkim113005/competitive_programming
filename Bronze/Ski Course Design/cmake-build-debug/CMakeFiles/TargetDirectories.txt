@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Ski Course Design/cmake-build-debug/CMakeFiles/Ski_Course_Design.dir
+C:/Users/hyung/CLionProjects/Ski Course Design/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Ski Course Design/cmake-build-debug/CMakeFiles/rebuild_cache.dir

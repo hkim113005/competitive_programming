@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Jungol 1840 Solution/cmake-build-debug/CMakeFiles/Jungol_1840_Solution.dir
+C:/Users/hyung/CLionProjects/Jungol 1840 Solution/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Jungol 1840 Solution/cmake-build-debug/CMakeFiles/rebuild_cache.dir

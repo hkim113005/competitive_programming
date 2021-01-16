@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACOTraining_friday/cmake-build-debug/CMakeFiles/USACOTraining_friday.dir
+C:/Users/hyung/CLionProjects/USACOTraining_friday/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACOTraining_friday/cmake-build-debug/CMakeFiles/rebuild_cache.dir

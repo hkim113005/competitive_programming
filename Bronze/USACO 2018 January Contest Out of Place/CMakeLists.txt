@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2018_January_Contest_Out_of_Place)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2018_January_Contest_Out_of_Place main.cpp)
