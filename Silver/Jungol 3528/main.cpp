@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int n, cnt = 0;
+int n, cnt = 0, c = 0;
 string word;
 vector<string> done;
 
@@ -20,7 +20,13 @@ bool in(string a) {
 }
 
 void process(string a, vector<pair<char, int>> possible) {
+    cout << c << endl;
+    c++;
     //cout << a;
+
+    if (c > 720) {
+        cout << c << endl;
+    }
 
     if (a.length() == n) {
         if (!in(a)) {
