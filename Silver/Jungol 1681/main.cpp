@@ -6,12 +6,10 @@ using namespace std;
 
 int n, min_cost = -1;
 int prices[15][15];
+bool check[15];
 
-void process(int level, int cost, vector<int> travelled, vector<bool> check) {
-    travelled.push_back(level);
-    check[level] = false;
-
-    if (travelled.size() == n) {
+void process(int level, int cost, int cnt) {
+    if (cnt == n) {
         cost += prices[level][0];
 
         if ((min_cost > cost || min_cost == -1) && prices[level][0] != 0) {
@@ -23,15 +21,15 @@ void process(int level, int cost, vector<int> travelled, vector<bool> check) {
 
     for (int i = 0; i < n; i++) {
         if (check[i] && prices[level][i] != 0) {
-            process(i, cost + prices[level][i], travelled, check);
+            check[i] = false;
+            process(i, cost + prices[level][i], cnt + 1);
+            check[i] = true;
         }
     }
 }
 
 int main() {
     cin >> n;
-
-    vector<bool> check(15);
 
     for (int i = 0; i < n; i++) {
         check[i] = true;
@@ -41,7 +39,9 @@ int main() {
         }
     }
 
-    process(0, 0, vector<int>(0), check);
+    check[0] = false;
+
+    process(0, 0, 1);
 
     cout << min_cost << endl;
 
