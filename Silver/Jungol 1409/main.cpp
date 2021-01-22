@@ -1,33 +1,36 @@
 #include <iostream>
-#include <math.h>
 
 using namespace std;
 
-int n, m, o1, o2, ans = 0;
+int n, m, doors[50], ans = 1000000000;
 
-int main() {
-    cin >> n >> o1 >> o2;
+void door(int open1, int open2, int index, int total) {
+    int cost = 0;
 
-    cin >> m;
-
-    for (int i = 0; i < m; i++) {
-        int tmp;
-
-        cin >> tmp;
-
-        if (!(o1 == tmp || o2 == tmp)) {
-            if (abs(tmp - o1) > abs(tmp - o2)) {
-                ans += abs(tmp - o2);
-                o2 = tmp;
-            }
-            else {
-                ans += abs(tmp - o1);
-                o1 = tmp;
-            }
-        }
+    if (index == m) {
+        ans = min(ans, total);
+        return;
     }
 
-    cout << ans << endl;
+    cost = abs(doors[index] - open1);
+    door(doors[index], open2, index + 1, total + cost);
+
+    cost = abs(doors[index] - open2);
+    door(open1, doors[index], index + 1, total + cost);
+}
+
+int main() {
+    int open1, open2;
+
+    cin >> n >> open1 >> open2 >> m;
+
+    for (int i = 0; i < m; i++) {
+        cin >> doors[i];
+    }
+
+    door(open1, open2, 0, 0);
+
+    cout << ans;
 
     return 0;
 }

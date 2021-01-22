@@ -1,3 +1,3 @@
-C:/Users/hyung/CLionProjects/Jungol 1409/cmake-build-debug/CMakeFiles/Jungol_1409.dir
-C:/Users/hyung/CLionProjects/Jungol 1409/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/hyung/CLionProjects/Jungol 1409/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/Jungol 1409/cmake-build-debug/CMakeFiles/Jungol_1409.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/Jungol 1409/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/Jungol 1409/cmake-build-debug/CMakeFiles/rebuild_cache.dir
