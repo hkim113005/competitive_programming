@@ -4,15 +4,16 @@ using namespace std;
 
 int n;
 
-bool check(int a[100]) {
+bool check(int a[100], int s) {
     bool ok = false;
 
-    for (int i = 2; i < n / 2 + 1; i++) {
-        for (int j = 0; j < n - i; j++) {
+    for (int i = 2; i <= s / 2 + 1; i++) {
+        for (int j = 0; j <= s - 2 * i; j++) {
             ok = false;
             for (int k = j; k < j + i; k++) {
                 if (a[k] != a[k + i]) {
                     ok = true;
+                    break;
                 }
             }
 
@@ -27,7 +28,7 @@ bool check(int a[100]) {
 
 void dfs(int cnt, int a[100]) {
     if (cnt == n) {
-        if (check(a)) {
+        if (check(a, n)) {
             for (int i = 0; i < n; i++) {
                 cout << a[i];
             }
@@ -42,7 +43,9 @@ void dfs(int cnt, int a[100]) {
     for (int i = 1; i <= 3; i++) {
         if (i != a[cnt]) {
             a[cnt + 1] = i;
-            dfs(cnt + 1, a);
+            if (check(a, cnt + 1)) {
+                dfs(cnt + 1, a);
+            }
         }
     }
 }
@@ -50,7 +53,7 @@ void dfs(int cnt, int a[100]) {
 int main() {
     cin >> n;
 
-    int a[50];
+    int a[100];
 
     a[0] = 1;
     dfs(0, a);
