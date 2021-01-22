@@ -80,10 +80,7 @@ public:
     }
 
     Node remove() {
-        if (empty()) {
-            throw exception("empty frontier");
-        }
-        else {
+        if (!empty()) {
             Node r = frontier[0];
 
             vector<Node> new_frontier(frontier.size(), Node(create_pos(-1, -1), nullptr, 0));
