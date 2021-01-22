@@ -196,10 +196,11 @@ public:
             }
 
             jugglers[node.state.x][node.state.y] = node.cnt;
+            //jugglers[node.state.x][node.state.y] = 0;
 
             vector<Pos> neighbor_states = neighbors(node.state);
 
-            if (neighbor_states.size() == 0) {
+            if (neighbor_states.empty()) {
                 int count = 0;
 
                 while (node.parent != nullptr) {
@@ -241,7 +242,7 @@ public:
 };
 
 int main() {
-    int n, m;
+    int n, m, ans = 0;
 
     cin >> n >> m;
 
@@ -253,7 +254,17 @@ int main() {
 
     jugglers.solve(y - 1, x - 1);
 
-    cout << jugglers.max_count + 3;
+    //jugglers.print();
+
+    for (int i = 0; i < m; i++) {
+        for (int j = 0; j < n; j++) {
+            if (jugglers.jugglers[i][j] == 1) {
+                ans++;
+            }
+        }
+    }
+
+    cout << jugglers.max_count + 3 << endl << ans << endl;
 
     return 0;
 }
