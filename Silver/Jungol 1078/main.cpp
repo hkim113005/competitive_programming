@@ -181,6 +181,9 @@ public:
         frontier.add(start);
 
         vector<Pos> explored(n * m);
+        for (int i = 0; i < n * m; i++) {
+            explored[i] = create_pos(-1, -1);
+        }
 
         while (true) {
             if (frontier.empty()) {
@@ -190,13 +193,15 @@ public:
             Node node = frontier.remove();
             explored.push_back(node.state);
 
+            /*
             if (node.cnt > prev_cnt) {
                 print();
                 prev_cnt = node.cnt;
             }
+            */
 
-            jugglers[node.state.x][node.state.y] = node.cnt;
-            //jugglers[node.state.x][node.state.y] = 0;
+            //jugglers[node.state.x][node.state.y] = node.cnt;
+            jugglers[node.state.x][node.state.y] = 0;
 
             vector<Pos> neighbor_states = neighbors(node.state);
 
