@@ -1,68 +1,19 @@
 #include <iostream>
-#include <vector>
 
 using namespace std;
 
-int board[9][9];
-vector<int> tried[9][9];
+int board[10][10];
+bool row_check[10][10], col_check[10][10], box_check[10][10];
 
-vector<int> possible(int x, int y) {
-    bool numbers[10];
-
-    for (int i = 1; i <= 9; i++) {
-        numbers[i] = true;
+void sudoku(int x, int y) {
+    if (x > 8) {
+        sudoku(0, y + 1);
     }
 
-    for (int i = 0; i < 9; i++) {
-        if (i != y) {
-            numbers[board[x][i]] = false;
-        }
-    }
-
-    for (int i = 0; i < 9; i++) {
-        if (i != x) {
-            numbers[board[i][y]] = false;
-        }
-    }
-
-    int gx = (x / 3) * 3, gy = (y / 3) * 3;
-
-    for (int i = 0; i < 3; i++) {
-        for (int j = 0; j < 3; j++) {
-            if (gx + i != x && gy + j != y) {
-                numbers[board[gx + i][gy + j]] = false;
-            }
-        }
-    }
-
-    vector<int> r;
-
-    for (int i = 1; i <= 9; i++) {
-        if (numbers[i]) {
-            r.push_back(i);
-        }
-    }
-
-    return r;
-}
-
-bool ok() {
-    for (int i = 0; i < 9; i++) {
-        for (int j = 0; j < 9; j++) {
-            if (board[i][j] == 0) {
-                return false;
-            }
-        }
-    }
-
-    return true;
-}
-
-bool process() {
-    if (ok()) {
+    if (y > 8) {
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
-                cout << board[i][j] << " ";
+                cout << board[j][i] << " ";
             }
 
             cout << endl;
@@ -71,80 +22,33 @@ bool process() {
         exit(0);
     }
 
-    for (int i = 0; i < 9; i++) {
-        for (int j = 0; j < 9; j++) {
-            cout << board[i][j] << " ";
-        }
-
-        cout << endl;
+    if (board[x][y] != 0) {
+        sudoku(x + 1, y);
+        return;
     }
-
-    cout << endl << endl;
-
-    for (int i = 0; i < 9; i++) {
-        for (int j = 0; j < 9; j++) {
-            if (board[i][j] == 0) {
-                vector<int> next = possible(i, j);
-
-                if (next.size() == 0) {
-                    return false;
-                }
-
-                for (int k = 0; k < next.size(); k++) {
-                    if (count(tried[i][j].begin(), tried[i][j].end(), next[k]) == 0) {
-                        board[i][j] = next[k];
-                        process();
-                        board[i][j] = 0;
-                    }
-                }
+    else {
+        for (int i = 1; i <= 9; i++) {
+            if (!row_check[y][i] && !col_check[x][i] && !box_check[(x / 3) * 3 + y / 3][i]) {
+                board[x][y] = i;
+                row_check[y][i] = col_check[x][i] = box_check[(x / 3) * 3 + y / 3][i] = true;
+                sudoku(x + 1, y);
+                row_check[y][i] = col_check[x][i] = box_check[(x / 3) * 3 + y / 3][i] = false;
+                board[x][y] = 0;
             }
         }
     }
 }
 
 int main() {
-    int x = 5, y = 3;
-
     for (int i = 0; i < 9; i++) {
         for (int j = 0; j < 9; j++) {
-            cin >> board[i][j];
+            cin >> board[j][i];
+
+            row_check[i][board[j][i]] = col_check[j][board[j][i]] = box_check[(j / 3) * 3 + i / 3][board[j][i]] = true;
         }
     }
 
-    /*
-    for (int i = 0; i < 9; i++) {
-        for (int j = 0; j < 9; j++) {
-            if (i == x && j == y) {
-                cout << "X ";
-            }
-            else {
-                cout << board[i][j] << " ";
-            }
-        }
-
-        cout << endl;
-    }
-
-    vector<int> next = possible(x, y);
-
-    for (int i = 0; i < next.size(); i++) {
-        cout << next[i] << " ";
-    }
-     */
-
-    process();
+    sudoku(0, 0);
 
     return 0;
 }
-
-/*
-0 0 0 1 2 3 0 0 0
-0 0 0 4 5 6 0 0 0
-0 0 0 7 0 9 0 0 0
-1 2 3 5 4 7 0 0 0
-4 5 6 2 9 1 0 0 0
-0 8 9 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0
- */
