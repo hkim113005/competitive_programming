@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACO/Silver/USACO 2021 January - No Time To Paint/cmake-build-debug/CMakeFiles/USACO_2021_January___No_Time_To_Paint.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/USACO 2021 January - No Time To Paint/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/USACO 2021 January - No Time To Paint/cmake-build-debug/CMakeFiles/rebuild_cache.dir

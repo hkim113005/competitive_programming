@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACO/Silver/USACO 2021 January - Spaced Out 2/cmake-build-debug/CMakeFiles/USACO_2021_January___Spaced_Out_2.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/USACO 2021 January - Spaced Out 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/USACO 2021 January - Spaced Out 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
