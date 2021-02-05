@@ -104,11 +104,12 @@ void solve() {
 
     queue<node> frontier;
 
+    vector<node> explored;
+
     for (int i = 0; i < (int)starts.size(); i++) {
         frontier.push(starts[i]);
+        explored.emplace_back(starts[i]);
     }
-
-    vector<node> explored;
 
     int level = 0;
 
@@ -130,8 +131,6 @@ void solve() {
 
         frontier.pop();
 
-        explored.emplace_back(n);
-
         if (level != n.t) {
             //print();
 
@@ -151,6 +150,7 @@ void solve() {
         for (int i = 0; i < (int)neighbors.size(); i++) {
             if (count(explored.begin(), explored.end(), neighbors[i]) == 0) {
                 frontier.push(neighbors[i]);
+                explored.emplace_back(neighbors[i]);
             }
         }
     }

@@ -172,7 +172,11 @@ void solve() {
         vector<Node> neighbors = find_neighbors(node.x, node.y, node.cnt);
 
         for (int i = 0; i < (int)neighbors.size(); i++) {
-            frontier.push(neighbors[i]);
+            if (count(explored.begin(), explored.end(), neighbors[i]) == 0) {
+                frontier.push(neighbors[i]);
+
+                explored.emplace_back(neighbors[i]);
+            }
         }
     }
 }
