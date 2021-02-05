@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 #include <queue>
 
 using namespace std;
@@ -99,6 +100,8 @@ void print() {
 }
 
 void solve() {
+    int c = 0;
+
     queue<node> frontier;
 
     for (int i = 0; i < (int)starts.size(); i++) {
@@ -110,6 +113,12 @@ void solve() {
     int level = 0;
 
     while (true) {
+        c++;
+
+        if (c > 100000) {
+            cout << "1";
+        }
+
         if (frontier.empty()) {
             if (check()) {
                 cout << level;
@@ -144,7 +153,9 @@ void solve() {
         vector<node> neighbors = get_neighbors(n.x, n.y, n.t);
 
         for (int i = 0; i < (int)neighbors.size(); i++) {
-            frontier.push(neighbors[i]);
+            if (count(explored.begin(), explored.end(), neighbors[i]) == 0) {
+                frontier.push(neighbors[i]);
+            }
         }
     }
 }
