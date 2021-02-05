@@ -115,10 +115,6 @@ void solve() {
     while (true) {
         c++;
 
-        if (c > 100000) {
-            cout << "1";
-        }
-
         if (frontier.empty()) {
             if (check()) {
                 cout << level;
