@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACO/Bronze/USACO 2021 January Contest, Bronze Problem 3. Just Stalling/cmake-build-debug/CMakeFiles/USACO_2021_January_Contest__Bronze_Problem_3__Just_Stalling.dir
+C:/Users/hyung/CLionProjects/USACO/Bronze/USACO 2021 January Contest, Bronze Problem 3. Just Stalling/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO/Bronze/USACO 2021 January Contest, Bronze Problem 3. Just Stalling/cmake-build-debug/CMakeFiles/rebuild_cache.dir

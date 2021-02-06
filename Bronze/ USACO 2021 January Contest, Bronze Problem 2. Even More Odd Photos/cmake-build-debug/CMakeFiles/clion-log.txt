@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\hyung\CLionProjects\USACO\Bronze\ USACO 2021 January Contest, Bronze Problem 2. Even More Odd Photos"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/hyung/CLionProjects/USACO/Bronze/ USACO 2021 January Contest, Bronze Problem 2. Even More Odd Photos/cmake-build-debug

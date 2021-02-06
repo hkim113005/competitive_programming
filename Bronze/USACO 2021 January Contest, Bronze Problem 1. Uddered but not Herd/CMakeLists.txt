@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2021_January_Contest__Bronze_Problem_1__Uddered_but_not_Herd)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2021_January_Contest__Bronze_Problem_1__Uddered_but_not_Herd main.cpp)

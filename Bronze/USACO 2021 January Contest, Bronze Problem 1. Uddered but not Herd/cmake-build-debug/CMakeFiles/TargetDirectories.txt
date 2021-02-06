@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACO/Bronze/USACO 2021 January Contest, Bronze Problem 1. Uddered but not Herd/cmake-build-debug/CMakeFiles/USACO_2021_January_Contest__Bronze_Problem_1__Uddered_but_not_Herd.dir
+C:/Users/hyung/CLionProjects/USACO/Bronze/USACO 2021 January Contest, Bronze Problem 1. Uddered but not Herd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO/Bronze/USACO 2021 January Contest, Bronze Problem 1. Uddered but not Herd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
