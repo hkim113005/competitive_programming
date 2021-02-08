@@ -65,7 +65,9 @@ int main() {
         }
     }
 
-    //process(0, 0, p);
+    process(0, 0, p);
+
+    cout << ans;
 
     return 0;
 }
