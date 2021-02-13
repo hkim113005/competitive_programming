@@ -12,7 +12,7 @@ int n, k;
 int s, t;
 bool b[1005][35];
 int roads_len = 0;
-int roads[1005][2];
+int roads[100005][2];
 
 void input() {
     cin >> n >> k;
