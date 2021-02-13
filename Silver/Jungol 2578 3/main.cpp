@@ -69,7 +69,9 @@ void find_possible_points() {
                         possible_points_cnt[i]++;
                     }
                 }
-                else if ()
+                else if (bus[j][0] == bus[j][2]) {
+                    if ()
+                }
             }
             else if (bus[i][1] == bus[i][3]) {
                 if (bus[i][1] == t_y && min(bus[i][0], bus[i][2]) <= t_x && t_x <= max(bus[i][0], bus[i][2])) {
