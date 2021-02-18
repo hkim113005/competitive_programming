@@ -13,7 +13,7 @@ int bus[5005][4];
 int s_x, s_y;
 int t_x, t_y;
 int possible_points_cnt[5005] = { 0 };
-int possible_points[5005][10000][2];
+int possible_points[5005][1000][2];
 
 node make_node(int x, int y, int cnt) {
     node N;
@@ -68,9 +68,6 @@ void find_possible_points() {
 
                         possible_points_cnt[i]++;
                     }
-                }
-                else if (bus[j][0] == bus[j][2]) {
-                    if ()
                 }
             }
             else if (bus[i][1] == bus[i][3]) {
