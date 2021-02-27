@@ -24,6 +24,10 @@ int main() {
             if (field[x - 1][y] == 3 && cows[x - 1][y]) {
                 cnt++;
             }
+
+            if (field[x - 1][y] == 4 && cows[x - 1][y]) {
+                cnt--;
+            }
         }
 
         if (x + 1 <= 1000) {
@@ -32,6 +36,10 @@ int main() {
             if (field[x + 1][y] == 3 && cows[x + 1][y]) {
                 cnt++;
             }
+
+            if (field[x + 1][y] == 4 && cows[x + 1][y]) {
+                cnt--;
+            }
         }
 
         if (y - 1 >= 0) {
@@ -39,6 +47,10 @@ int main() {
 
             if (field[x][y - 1] == 3 && cows[x][y - 1]) {
                 cnt++;
+            }
+
+            if (field[x][y - 1] == 4 && cows[x][y - 1]) {
+                cnt--;
             }
         }
 
@@ -49,6 +61,9 @@ int main() {
                 cnt++;
             }
 
+            if (field[x][y + 1] == 4 && cows[x][y + 1]) {
+                cnt--;
+            }
         }
 
         cout << cnt << endl;
