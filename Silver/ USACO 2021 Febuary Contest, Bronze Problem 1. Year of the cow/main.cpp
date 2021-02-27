@@ -83,8 +83,11 @@ int main() {
             if (b > a) {
                 c = (b - a) - 12;
             }
-            else {
+            else if (b < a) {
                 c = b - a;
+            }
+            else {
+                c = -12;
             }
 
             int d = get_index(name1);
@@ -103,8 +106,11 @@ int main() {
             if (b < a) {
                 c = (b - a) + 12;
             }
-            else {
+            else if (b > a) {
                 c = b - a;
+            }
+            else {
+                c = 12;
             }
 
             int d = get_index(name1);
@@ -116,7 +122,7 @@ int main() {
         }
     }
 
-    cout << get<2>(cows[get_index("Elsie")]);
+    cout << abs(get<2>(cows[get_index("Elsie")]));
 
     return 0;
 }
