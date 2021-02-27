@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(_USACO_2021_Febuary_Contest__Bronze_Problem_1__Year_of_the_cow)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(_USACO_2021_Febuary_Contest__Bronze_Problem_1__Year_of_the_cow main.cpp)

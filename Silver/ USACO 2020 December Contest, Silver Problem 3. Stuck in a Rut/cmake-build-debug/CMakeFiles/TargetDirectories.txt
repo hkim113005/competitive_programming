@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACO/Silver/ USACO 2020 December Contest, Silver Problem 3. Stuck in a Rut/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/ USACO 2020 December Contest, Silver Problem 3. Stuck in a Rut/cmake-build-debug/CMakeFiles/_USACO_2020_December_Contest__Silver_Problem_3__Stuck_in_a_Rut.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/ USACO 2020 December Contest, Silver Problem 3. Stuck in a Rut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
