@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(_USACO_2020_December_Contest__Silver_Problem_3__Stuck_in_a_Rut)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(_USACO_2020_December_Contest__Silver_Problem_3__Stuck_in_a_Rut main.cpp)
