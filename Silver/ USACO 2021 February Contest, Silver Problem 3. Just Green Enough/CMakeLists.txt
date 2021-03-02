@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(_USACO_2021_February_Contest__Silver_Problem_3__Just_Green_Enough)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(_USACO_2021_February_Contest__Silver_Problem_3__Just_Green_Enough main.cpp)

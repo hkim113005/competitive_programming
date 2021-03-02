@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(_USACO_2021_February_Contest__Silver_Problem_1__Comfortable_Cows)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(_USACO_2021_February_Contest__Silver_Problem_1__Comfortable_Cows main.cpp)

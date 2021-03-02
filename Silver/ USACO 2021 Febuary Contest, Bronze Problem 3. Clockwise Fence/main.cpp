@@ -3,6 +3,7 @@
 using namespace std;
 
 int N;
+char map[10000][10000];
 
 int main() {
     cin >> N;
@@ -12,33 +13,15 @@ int main() {
 
         cin >> s;
 
-        int cw = 0;
-        int ccw = 0;
+        int x = 100;
+        int y = 100;
 
-        for (int j = 0; j < s.length() - 1; j++) {
-            string t;
-            t += s[j];
-            t += s[j + 1];
+        for (int j = 0; j < s.length(); j++) {
+            map[x][y] = s[j];
 
-            if (t == "NW" || t == "WN") {
-                ccw++;
+            if (s[j] == 'W') {
+                map[]
             }
-            else if (t == "SE" || t == "ES") {
-                ccw++;
-            }
-            else if (t == "SW" || t == "WS") {
-                cw++;
-            }
-            else if (t == "NE" || t == "EN") {
-                cw++;
-            }
-        }
-
-        if (cw > ccw) {
-            cout << "CW" << endl;
-        }
-        else {
-            cout << "CCW" << endl;
         }
     }
 
