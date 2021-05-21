@@ -3,10 +3,10 @@
 using namespace std;
 
 int N, K;
-int pots[10005];
+long long pots[10005];
 
-int minMl = 0, maxMl = 0;
-int cur;
+long long minMl = 0, maxMl = 0;
+long long cur;
 
 void solve () {
     cur = (maxMl - minMl) / 2 + minMl;
@@ -15,7 +15,7 @@ void solve () {
         return;
     }
 
-    int t = 0;
+    long long t = 0;
 
     for (int i = 0; i < N; i++) {
         t += pots[i] / cur;
@@ -51,3 +51,4 @@ int main() {
 
     return 0;
 }
+
