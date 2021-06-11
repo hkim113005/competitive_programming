@@ -54,6 +54,13 @@ int main() {
         }
     }
 
+    for (int i = 0; i < ans; i++) {
+        if (differences[i] == 0) {
+            cout << "ZERO INVALID";
+            if ()
+        }
+    }
+
     cout << ans;
 
     return 0;
