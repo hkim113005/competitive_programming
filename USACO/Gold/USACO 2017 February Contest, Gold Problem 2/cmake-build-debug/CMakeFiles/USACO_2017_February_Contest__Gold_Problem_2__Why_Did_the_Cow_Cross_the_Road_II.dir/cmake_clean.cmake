@@ -1,0 +1,12 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/USACO_2017_February_Contest__Gold_Problem_2__Why_Did_the_Cow_Cross_the_Road_II.dir/main.cpp.obj"
+  "USACO_2017_February_Contest__Gold_Problem_2__Why_Did_the_Cow_Cross_the_Road_II.exe"
+  "USACO_2017_February_Contest__Gold_Problem_2__Why_Did_the_Cow_Cross_the_Road_II.exe.manifest"
+  "USACO_2017_February_Contest__Gold_Problem_2__Why_Did_the_Cow_Cross_the_Road_II.lib"
+  "USACO_2017_February_Contest__Gold_Problem_2__Why_Did_the_Cow_Cross_the_Road_II.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/USACO_2017_February_Contest__Gold_Problem_2__Why_Did_the_Cow_Cross_the_Road_II.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

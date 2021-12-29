@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2019 December Contest, Gold Problem 1. Milk Pumping/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+tuple
+-
+

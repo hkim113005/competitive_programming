@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACO/Silver/ USACO 2021 February Contest, Silver Problem 3. Just Green Enough/cmake-build-debug/CMakeFiles/_USACO_2021_February_Contest__Silver_Problem_3__Just_Green_Enough.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/ USACO 2021 February Contest, Silver Problem 3. Just Green Enough/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/ USACO 2021 February Contest, Silver Problem 3. Just Green Enough/cmake-build-debug/CMakeFiles/rebuild_cache.dir

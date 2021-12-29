@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACO/Gold/Codeforces A. Way Too Long Words/cmake-build-debug/CMakeFiles/Codeforces_A__Way_Too_Long_Words.dir
+C:/Users/hyung/CLionProjects/USACO/Gold/Codeforces A. Way Too Long Words/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO/Gold/Codeforces A. Way Too Long Words/cmake-build-debug/CMakeFiles/rebuild_cache.dir

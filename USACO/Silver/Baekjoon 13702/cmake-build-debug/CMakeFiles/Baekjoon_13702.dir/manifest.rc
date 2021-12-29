@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/hyung/CLionProjects/USACO/Silver/Baekjoon 13702/cmake-build-debug/CMakeFiles/Baekjoon_13702.dir/embed.manifest"

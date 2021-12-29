@@ -1,0 +1,19 @@
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2017 February Contest, Gold Problem 1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_d3cfc\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_d3cfc.dir\build.make /nologo -L                  CMakeFiles\cmTC_d3cfc.dir\build
+Building CXX object CMakeFiles/cmTC_d3cfc.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe @C:\Users\hyung\AppData\Local\Temp\nmDF8A.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_d3cfc.exe
+	"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d3cfc.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_d3cfc.dir\objects1.rsp @C:\Users\hyung\AppData\Local\Temp\nmDFE9.tmp
+FINAL LINK: command "C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_d3cfc.dir\objects1.rsp /out:cmTC_d3cfc.exe /implib:cmTC_d3cfc.lib /pdb:C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\USACO 2017 February Contest, Gold Problem 1\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_d3cfc.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_d3cfc.dir/intermediate.manifest CMakeFiles\cmTC_d3cfc.dir/manifest.res" failed (exit code 1104) with the following output:
+LINK : fatal error LNK1104: cannot open file 'cmTC_d3cfc.exe'
+NMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+

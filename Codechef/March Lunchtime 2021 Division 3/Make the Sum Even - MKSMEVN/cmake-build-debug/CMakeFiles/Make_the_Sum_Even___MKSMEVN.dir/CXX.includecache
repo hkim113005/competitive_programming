@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/Codechef/March Lunchtime 2021 Division 3/Make the Sum Even - MKSMEVN/main.cpp
+iostream
+-
+algorithm
+-
+math.h
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2018 US Open Contest, Gold Problem 2. Milking Order/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+

@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACO/Silver/USACO 2018 December Contest, Silver Problem 1. Convention/cmake-build-debug/CMakeFiles/USACO_2018_December_Contest__Silver_Problem_1__Convention.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/USACO 2018 December Contest, Silver Problem 1. Convention/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO/Silver/USACO 2018 December Contest, Silver Problem 1. Convention/cmake-build-debug/CMakeFiles/rebuild_cache.dir

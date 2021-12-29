@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2017 December Contest, Gold Problem 3. Haybale Feast/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+iostream
+-
+algorithm
+-
+vector
+-
+

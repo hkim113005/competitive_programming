@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.17)
-project(_USACO_2019_January_Contest__Gold_Problem_1__Cow_Poetry)
-
-set(CMAKE_CXX_STANDARD 14)
-
-add_executable(_USACO_2019_January_Contest__Gold_Problem_1__Cow_Poetry main.cpp)

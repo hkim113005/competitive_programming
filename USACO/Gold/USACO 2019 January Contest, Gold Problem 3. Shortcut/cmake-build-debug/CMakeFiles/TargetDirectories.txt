@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2019 January Contest, Gold Problem 3. Shortcut/cmake-build-debug/CMakeFiles/USACO_2019_January_Contest__Gold_Problem_3__Shortcut.dir
+C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2019 January Contest, Gold Problem 3. Shortcut/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2019 January Contest, Gold Problem 3. Shortcut/cmake-build-debug/CMakeFiles/rebuild_cache.dir

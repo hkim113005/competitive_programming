@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/hyung/CLionProjects/USACO/Gold/Codeforces A. Football/cmake-build-debug/CMakeFiles/Codeforces_A__Football.dir/embed.manifest"

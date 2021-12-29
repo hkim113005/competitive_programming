@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2019 December Contest, Gold Problem 2. Milk Visits/main.cpp
+iostream
+-
+stack
+-
+vector
+-
+set
+-
+iterator
+-
+math.h
+-
+
