@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2016_December_Contest__Gold_Problem_2__Cow_Checklist)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2016_December_Contest__Gold_Problem_2__Cow_Checklist main.cpp)

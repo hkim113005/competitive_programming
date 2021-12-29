@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Technocup_2020___Elimination_Round_2__D__Power_Products)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Technocup_2020___Elimination_Round_2__D__Power_Products main.cpp)

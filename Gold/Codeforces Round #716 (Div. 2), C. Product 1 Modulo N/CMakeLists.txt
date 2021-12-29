@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Codeforces_Round__716__Div__2___C__Product_1_Modulo_N)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Codeforces_Round__716__Div__2___C__Product_1_Modulo_N main.cpp)
