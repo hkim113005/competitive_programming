@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(LeetCode__1143__Longest_Common_Subsequence)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(LeetCode__1143__Longest_Common_Subsequence main.cpp)
