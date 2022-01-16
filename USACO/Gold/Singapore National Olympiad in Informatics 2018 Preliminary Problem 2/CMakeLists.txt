@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Singapore_National_Olympiad_in_Informatics_2018_Preliminary_Problem_2)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Singapore_National_Olympiad_in_Informatics_2018_Preliminary_Problem_2 main.cpp)

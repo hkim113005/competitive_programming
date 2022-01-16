@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/hyung/CLionProjects/USACO/Gold/CSES Problem Set, Sum of Divisors/main.cpp" "C:/Users/hyung/CLionProjects/USACO/Gold/CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/main.cpp.obj"
+  "C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/CSES Problem Set, Sum of Divisors/main.cpp" "C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

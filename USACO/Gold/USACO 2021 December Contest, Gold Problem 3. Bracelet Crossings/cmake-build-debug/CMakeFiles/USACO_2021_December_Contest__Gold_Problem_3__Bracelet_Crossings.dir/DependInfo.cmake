@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/main.cpp" "C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/main.cpp.obj"
+  "C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/main.cpp" "C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

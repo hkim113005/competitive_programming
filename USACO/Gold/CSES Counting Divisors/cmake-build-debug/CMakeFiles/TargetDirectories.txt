@@ -1,3 +1,0 @@
-C:/Users/hyung/CLionProjects/USACO/Gold/CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir
-C:/Users/hyung/CLionProjects/USACO/Gold/CSES Counting Divisors/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/hyung/CLionProjects/USACO/Gold/CSES Counting Divisors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

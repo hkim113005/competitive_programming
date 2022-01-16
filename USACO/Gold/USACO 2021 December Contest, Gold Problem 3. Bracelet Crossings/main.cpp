@@ -17,9 +17,8 @@ bool solve() {
         for (int l = 0; l < k[j]; l++) {
             cin >> c[j][l];
         }
-
-
     }
+
     for (int j = 0; j < M; j++) {
         bool open[100];
         for (int l = 1; l <= N; l++) {

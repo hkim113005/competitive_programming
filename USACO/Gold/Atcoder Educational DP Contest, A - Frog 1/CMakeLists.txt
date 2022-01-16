@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Atcoder_Educational_DP_Contest__A___Frog_1)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Atcoder_Educational_DP_Contest__A___Frog_1 main.cpp)

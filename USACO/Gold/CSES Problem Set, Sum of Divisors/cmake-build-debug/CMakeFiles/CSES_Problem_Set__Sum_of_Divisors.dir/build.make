@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors"
+CMAKE_SOURCE_DIR = "C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\depend.make
@@ -63,21 +63,21 @@ include CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\flags.make
 
 CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\main.cpp.obj: CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\flags.make
 CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\main.cpp.obj: ..\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/main.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\main.cpp.obj /FdCMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\ /FS -c "C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\main.cpp.obj /FdCMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\ /FS -c "C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors\main.cpp"
 <<
 
 CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/main.cpp.i"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe > CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors\main.cpp"
 <<
 
 CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/main.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\main.cpp.s /c "C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\main.cpp.s /c "C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors\main.cpp"
 <<
 
 # Object files for target CSES_Problem_Set__Sum_of_Divisors
@@ -90,9 +90,9 @@ CSES_Problem_Set__Sum_of_Divisors_EXTERNAL_OBJECTS =
 CSES_Problem_Set__Sum_of_Divisors.exe: CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\main.cpp.obj
 CSES_Problem_Set__Sum_of_Divisors.exe: CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\build.make
 CSES_Problem_Set__Sum_of_Divisors.exe: CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CSES_Problem_Set__Sum_of_Divisors.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CSES_Problem_Set__Sum_of_Divisors.exe"
 	"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\objects1.rsp @<<
- /out:CSES_Problem_Set__Sum_of_Divisors.exe /implib:CSES_Problem_Set__Sum_of_Divisors.lib /pdb:"C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug\CSES_Problem_Set__Sum_of_Divisors.pdb" /version:0.0  /machine:x64 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+ /out:CSES_Problem_Set__Sum_of_Divisors.exe /implib:CSES_Problem_Set__Sum_of_Divisors.lib /pdb:"C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug\CSES_Problem_Set__Sum_of_Divisors.pdb" /version:0.0  /machine:x64 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 
 # Rule to build all files generated by this target.
@@ -105,6 +105,6 @@ CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\clean:
 .PHONY : CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\clean
 
 CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" "C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors" "C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors" "C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug" "C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug" "C:\Users\hyung\CLionProjects\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug\CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" "C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors" "C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors" "C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug" "C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug" "C:\Users\hyung\CLionProjects\Competitive Programming\USACO\Gold\CSES Problem Set, Sum of Divisors\cmake-build-debug\CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles\CSES_Problem_Set__Sum_of_Divisors.dir\depend
 
