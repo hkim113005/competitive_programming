@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/CSES Problem Set, Minimizing Coins/main.cpp
+iostream
+-
+

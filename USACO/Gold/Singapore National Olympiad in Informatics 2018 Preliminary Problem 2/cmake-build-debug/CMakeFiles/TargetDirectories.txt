@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/Singapore National Olympiad in Informatics 2018 Preliminary Problem 2/cmake-build-debug/CMakeFiles/Singapore_National_Olympiad_in_Informatics_2018_Preliminary_Problem_2.dir
+C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/Singapore National Olympiad in Informatics 2018 Preliminary Problem 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/Singapore National Olympiad in Informatics 2018 Preliminary Problem 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

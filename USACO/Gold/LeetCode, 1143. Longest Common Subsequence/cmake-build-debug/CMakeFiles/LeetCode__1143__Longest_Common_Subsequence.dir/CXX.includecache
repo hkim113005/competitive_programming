@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/LeetCode, 1143. Longest Common Subsequence/main.cpp
+iostream
+-
+vector
+-
+

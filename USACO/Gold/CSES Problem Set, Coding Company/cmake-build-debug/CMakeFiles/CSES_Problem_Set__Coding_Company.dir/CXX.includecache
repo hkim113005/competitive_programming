@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/CSES Problem Set, Coding Company/main.cpp
+iostream
+-
+algorithm
+-
+math.h
+-
+
