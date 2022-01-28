@@ -7,17 +7,19 @@ using namespace std;
 int n;
 int x[5005];
 int dp[5005][5005];
+bool vis[5005][5005];
 int a[5005];
 int cnt = 0;
 
 
 int solve(int i, int j) {
     cnt++;
-    if (cnt > 25000000) return 0;
-    if (dp[i][j]) return dp[i][j];
+    //if (cnt > 25000000) return 0;
+    if (vis[i][j]) return dp[i][j];
     if (i > j || i >= n + 1 || j <= 0) return 0;
     if (i == j) return dp[i][j] = x[i];
     int res = max(a[j] - a[i] - solve(i + 1, j) + x[i], a[j - 1] - a[i - 1] - solve(i, j - 1) + x[j]);
+    vis[i][j] = true;
     return dp[i][j] = res;
 }
 
@@ -27,9 +29,13 @@ int32_t main() {
         cin >> x[i];
     }
 
-    a[1] = x[1];
-    for (int i = 2; i <= n; i++) {
+    for (int i = 1; i <= n; i++) {
         a[i] = a[i - 1] + x[i];
+    }
+    for (int i = 0; i <= n; i++) {
+        for (int j = 0; j <= n; j++) {
+            vis[i][j] = false;
+        }
     }
 
     cout << solve(1, n) << endl;

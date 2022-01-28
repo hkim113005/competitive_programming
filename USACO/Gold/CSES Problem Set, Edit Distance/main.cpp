@@ -30,6 +30,12 @@ int main() {
         }
     }
     dp[0][0] = 0;
+    for (int i = 0; i <= n; i++) {
+        dp[i][0] = i;
+    }
+    for (int j = 0; j <= m; j++) {
+        dp[0][j] = j;
+    }
 
     for (int i = 1; i <= n; i++) {
         for (int j = 1; j <= m; j++) {
@@ -40,7 +46,6 @@ int main() {
         }
     }
 
-    if (dp[n][m] == 3770) dp[n][m]--;
     cout << dp[n][m] << endl;
 
     /*
