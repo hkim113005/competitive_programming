@@ -21,7 +21,7 @@ Compilation of the C compiler identification source "CMakeCCompilerId.c" produce
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
 
-The C compiler identification is MSVC, found in "C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe"
+The C compiler identification is MSVC, found in "C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe 
@@ -45,53 +45,53 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
 
-The CXX compiler identification is MSVC, found in "C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
+The CXX compiler identification is MSVC, found in "C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_c8733\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_c8733.dir\build.make /nologo -L                  CMakeFiles\cmTC_c8733.dir\build
-Building C object CMakeFiles/cmTC_c8733.dir/testCCompiler.c.obj
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe @C:\Users\hyung\AppData\Local\Temp\nmFC0F.tmp
+Run Build Command(s):nmake /nologo cmTC_3e2af\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_3e2af.dir\build.make /nologo -L                  CMakeFiles\cmTC_3e2af.dir\build
+Building C object CMakeFiles/cmTC_3e2af.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe @C:\Users\hyung\AppData\Local\Temp\nm8F1E.tmp
 testCCompiler.c
-Linking C executable cmTC_c8733.exe
-	"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_c8733.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_c8733.dir\objects1.rsp @C:\Users\hyung\AppData\Local\Temp\nmFC5E.tmp
+Linking C executable cmTC_3e2af.exe
+	"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3e2af.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_3e2af.dir\objects1.rsp @C:\Users\hyung\AppData\Local\Temp\nm9077.tmp
 
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_74047\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_74047.dir\build.make /nologo -L                  CMakeFiles\cmTC_74047.dir\build
-Building C object CMakeFiles/cmTC_74047.dir/CMakeCCompilerABI.c.obj
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe @C:\Users\hyung\AppData\Local\Temp\nmFDF3.tmp
+Run Build Command(s):nmake /nologo cmTC_fecdd\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_fecdd.dir\build.make /nologo -L                  CMakeFiles\cmTC_fecdd.dir\build
+Building C object CMakeFiles/cmTC_fecdd.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe @C:\Users\hyung\AppData\Local\Temp\nm923B.tmp
 CMakeCCompilerABI.c
-Linking C executable cmTC_74047.exe
-	"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_74047.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_74047.dir\objects1.rsp @C:\Users\hyung\AppData\Local\Temp\nmFE42.tmp
+Linking C executable cmTC_fecdd.exe
+	"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fecdd.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_fecdd.dir\objects1.rsp @C:\Users\hyung\AppData\Local\Temp\nm927B.tmp
 
 
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_1eaac\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_1eaac.dir\build.make /nologo -L                  CMakeFiles\cmTC_1eaac.dir\build
-Building CXX object CMakeFiles/cmTC_1eaac.dir/testCXXCompiler.cxx.obj
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe @C:\Users\hyung\AppData\Local\Temp\nmFFF7.tmp
+Run Build Command(s):nmake /nologo cmTC_61807\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_61807.dir\build.make /nologo -L                  CMakeFiles\cmTC_61807.dir\build
+Building CXX object CMakeFiles/cmTC_61807.dir/testCXXCompiler.cxx.obj
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe @C:\Users\hyung\AppData\Local\Temp\nm942F.tmp
 testCXXCompiler.cxx
-Linking CXX executable cmTC_1eaac.exe
-	"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_1eaac.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_1eaac.dir\objects1.rsp @C:\Users\hyung\AppData\Local\Temp\nm46.tmp
+Linking CXX executable cmTC_61807.exe
+	"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_61807.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_61807.dir\objects1.rsp @C:\Users\hyung\AppData\Local\Temp\nm947E.tmp
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_8bc22\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_8bc22.dir\build.make /nologo -L                  CMakeFiles\cmTC_8bc22.dir\build
-Building CXX object CMakeFiles/cmTC_8bc22.dir/CMakeCXXCompilerABI.cpp.obj
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe @C:\Users\hyung\AppData\Local\Temp\nm1CB.tmp
+Run Build Command(s):nmake /nologo cmTC_5a56e\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_5a56e.dir\build.make /nologo -L                  CMakeFiles\cmTC_5a56e.dir\build
+Building CXX object CMakeFiles/cmTC_5a56e.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe @C:\Users\hyung\AppData\Local\Temp\nm9604.tmp
 CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_8bc22.exe
-	"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_8bc22.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_8bc22.dir\objects1.rsp @C:\Users\hyung\AppData\Local\Temp\nm20B.tmp
+Linking CXX executable cmTC_5a56e.exe
+	"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_5a56e.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_5a56e.dir\objects1.rsp @C:\Users\hyung\AppData\Local\Temp\nm9653.tmp
 
 
 

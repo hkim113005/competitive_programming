@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/main.cpp" "C:/Users/hyung/CLionProjects/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/main.cpp.obj"
+  "C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/main.cpp" "C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 
