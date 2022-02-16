@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(USACO_2018_January_Contest__Gold_Problem_1__MooTube)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2018_January_Contest__Gold_Problem_1__MooTube main.cpp)

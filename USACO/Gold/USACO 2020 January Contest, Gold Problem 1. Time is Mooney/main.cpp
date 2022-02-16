@@ -24,14 +24,14 @@ int main() {
         e[b].push_back(a);
     }
 
-    for (int i = 0; i <= 2 * M; i++) {
+    for (int i = 0; i <= 2 * M + 5; i++) {
         for (int j = 1; j <= N; j++) {
             dp[i][j] = -INF;
         }
     }
     dp[0][1] = 0;
 
-    for (int i = 1; i <= 2 * M; i++) {
+    for (int i = 1; i <= 2 * M + 5; i++) {
         for (int j = 1; j <= N; j++) {
             for (auto k : e[j]) {
                 dp[i][j] = max(dp[i][j], dp[i - 1][k] + C * ((i - 1) * (i - 1) - i * i) + m[j]);
@@ -40,7 +40,7 @@ int main() {
     }
 
     int ans = 0;
-    for (int i = 0; i <= 2 * M; i++) {
+    for (int i = 0; i <= 2 * M + 5; i++) {
         ans = max(ans, dp[i][1]);
     }
 

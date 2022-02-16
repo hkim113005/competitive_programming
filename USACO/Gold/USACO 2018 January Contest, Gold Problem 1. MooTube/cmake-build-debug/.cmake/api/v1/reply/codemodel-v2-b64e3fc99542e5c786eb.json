@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "USACO_2018_January_Contest__Gold_Problem_1__MooTube",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "USACO_2018_January_Contest__Gold_Problem_1__MooTube::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USACO_2018_January_Contest__Gold_Problem_1__MooTube-Debug-d66ff7167c54b80f41f4.json",
+					"name" : "USACO_2018_January_Contest__Gold_Problem_1__MooTube",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/hyungjaekim/Desktop/CS/USACO/Gold/USACO 2018 January Contest, Gold Problem 1. MooTube/cmake-build-debug",
+		"source" : "/Users/hyungjaekim/Desktop/CS/USACO/Gold/USACO 2018 January Contest, Gold Problem 1. MooTube"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
