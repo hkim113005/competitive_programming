@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "USACO_2020_January_Contest__Gold_Problem_1__Time_is_Mooney",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "USACO_2020_January_Contest__Gold_Problem_1__Time_is_Mooney::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USACO_2020_January_Contest__Gold_Problem_1__Time_is_Mooney-Debug-9cb37880ad9896239c23.json",
+					"name" : "USACO_2020_January_Contest__Gold_Problem_1__Time_is_Mooney",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/hyungjaekim/Desktop/CS/USACO/Gold/USACO 2020 January Contest, Gold Problem 1. Time is Mooney/cmake-build-debug",
+		"source" : "/Users/hyungjaekim/Desktop/CS/USACO/Gold/USACO 2020 January Contest, Gold Problem 1. Time is Mooney"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
