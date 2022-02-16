@@ -1,3 +1,0 @@
-C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/ USACO 2015 December Contest, Gold Problem 2. Fruit Feast/cmake-build-debug/CMakeFiles/_USACO_2015_December_Contest__Gold_Problem_2__Fruit_Feast.dir
-C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/ USACO 2015 December Contest, Gold Problem 2. Fruit Feast/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/ USACO 2015 December Contest, Gold Problem 2. Fruit Feast/cmake-build-debug/CMakeFiles/rebuild_cache.dir
