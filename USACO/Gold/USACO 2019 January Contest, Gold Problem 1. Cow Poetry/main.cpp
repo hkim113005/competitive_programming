@@ -21,7 +21,7 @@ ll dp(int x) {
     if (x < 0) return mem[x] = 0;
 
     ll sum = 0;
-    for (int i = 0 ; i < N; i++) {
+    for (int i = 0; i < N; i++) {
         if (s[i] <= x) sum = (sum + dp(x - s[i])) % MOD;
     }
     return mem[x] = sum;
