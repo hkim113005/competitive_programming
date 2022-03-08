@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/Competitive Programming/Codeforces/Codeforces Round #775 (Div. 2, based on Moscow Open Olympiad in Informatics)/A. Game/main.cpp
+iostream
+-
+

@@ -1,0 +1,12 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/USACO_2022_January_Contest__Gold_Problem_1__Drought.dir/main.cpp.obj"
+  "USACO_2022_January_Contest__Gold_Problem_1__Drought.exe"
+  "USACO_2022_January_Contest__Gold_Problem_1__Drought.exe.manifest"
+  "USACO_2022_January_Contest__Gold_Problem_1__Drought.lib"
+  "USACO_2022_January_Contest__Gold_Problem_1__Drought.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/USACO_2022_January_Contest__Gold_Problem_1__Drought.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

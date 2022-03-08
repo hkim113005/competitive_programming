@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2022_January_Contest__Gold_Problem_1__Drought)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2022_January_Contest__Gold_Problem_1__Drought main.cpp)

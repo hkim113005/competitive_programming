@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="USACO_2022_January_Contest__Gold_Problem_1__Drought" targetName="USACO_2022_January_Contest__Gold_Problem_1__Drought" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5566ce7-18ae-454b-84bc-a4828bae89eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../USACO 2022 January Contest, Gold Problem 2. Farm Updates/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Increasing Subsequence/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Increasing Subsequence/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/embed.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/intermediate.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/manifest.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/manifest.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.dir/vc140.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/USACO_2016_US_Open_Contest__Gold_Problem_2__Closing_the_Farm.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="24PL7EChIheX6u2pfbck06yomJe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../USACO 2016 US Open Contest, Gold Problem 2. Closing the Farm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="USACO_2022_January_Contest__Gold_Problem_1__Drought" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USACO_2022_January_Contest__Gold_Problem_1__Drought" TARGET_NAME="USACO_2022_January_Contest__Gold_Problem_1__Drought" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="USACO_2022_January_Contest__Gold_Problem_1__Drought" RUN_TARGET_NAME="USACO_2022_January_Contest__Gold_Problem_1__Drought">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5566ce7-18ae-454b-84bc-a4828bae89eb" name="Default Changelist" comment="" />
+      <created>1643527106602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643527106602</updated>
+      <workItem from="1643527110590" duration="706000" />
+      <workItem from="1643533038086" duration="799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="461" key="FileChooserDialogImpl" timestamp="1643529706727">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="640" y="461" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1643529706727" />
+  </component>
+</project>

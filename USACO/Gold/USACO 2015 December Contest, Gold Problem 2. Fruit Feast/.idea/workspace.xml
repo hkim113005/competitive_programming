@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72f318e7-8ce3-43c0-9aba-588ae2e3b5ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Atcoder Educational DP Contest, A - Frog 1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atcoder Educational DP Contest, A - Frog 1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Book Shop/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Book Shop/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Coding Company/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Coding Company/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Coin Combinations I/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Coin Combinations I/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Coin Combinations II/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Coin Combinations II/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Dice Combinations/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Dice Combinations/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Divisor Analysis/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Divisor Analysis/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Exponentation II/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Exponentation II/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Exponentiation/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Exponentiation/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Minimizing Coins/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Minimizing Coins/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Money Sums/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Money Sums/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Two Sets II/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSES Problem Set, Two Sets II/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../USACO 2015 December Contest, Gold Problem 2. Fruit Feast/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../USACO 2015 December Contest, Gold Problem 2. Fruit Feast/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/.idea/CSES Counting Divisors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/embed.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/intermediate.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/manifest.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/manifest.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/CSES_Counting_Divisors.dir/vc140.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CSES_Counting_Divisors.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CSES_Counting_Divisors.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CSES_Counting_Divisors.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/CSES_Counting_Divisors.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Counting Divisors/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/manifest.rc" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/manifest.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/CSES_Problem_Set__Sum_of_Divisors.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CSES_Problem_Set__Sum_of_Divisors.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CSES_Problem_Set__Sum_of_Divisors.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CSES_Problem_Set__Sum_of_Divisors.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CSES_Problem_Set__Sum_of_Divisors.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CSES_Problem_Set__Sum_of_Divisors.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CSES_Problem_Set__Sum_of_Divisors.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CSES_Problem_Set__Sum_of_Divisors.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/CSES_Problem_Set__Sum_of_Divisors.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../CSES Problem Set, Sum of Divisors/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/manifest.rc" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/manifest.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/USACO_2021_December_Contest__Gold_Problem_3__Bracelet_Crossings.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO 2021 December Contest, Gold Problem 3. Bracelet Crossings/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="23VRNDgX7tkaZG9BAiLECpKp3MA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72f318e7-8ce3-43c0-9aba-588ae2e3b5ce" name="Default Changelist" comment="" />
+      <created>1641817225929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641817225929</updated>
+      <workItem from="1641817228736" duration="1616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1676" height="488" key="GridCell.Tab.0.bottom" timestamp="1641818858624">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1676" height="488" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1641818858624" />
+    <state width="1676" height="488" key="GridCell.Tab.0.center" timestamp="1641818858624">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1676" height="488" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1641818858624" />
+    <state width="1676" height="488" key="GridCell.Tab.0.left" timestamp="1641818858624">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1676" height="488" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1641818858624" />
+    <state width="1676" height="488" key="GridCell.Tab.0.right" timestamp="1641818858624">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1676" height="488" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1641818858624" />
+  </component>
+</project>

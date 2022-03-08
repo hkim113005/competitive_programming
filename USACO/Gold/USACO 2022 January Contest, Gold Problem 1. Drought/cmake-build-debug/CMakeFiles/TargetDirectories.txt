@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2022 January Contest, Gold Problem 1. Drought/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2022 January Contest, Gold Problem 1. Drought/cmake-build-debug/CMakeFiles/USACO_2022_January_Contest__Gold_Problem_1__Drought.dir
+C:/Users/hyung/CLionProjects/Competitive Programming/USACO/Gold/USACO 2022 January Contest, Gold Problem 1. Drought/cmake-build-debug/CMakeFiles/rebuild_cache.dir
