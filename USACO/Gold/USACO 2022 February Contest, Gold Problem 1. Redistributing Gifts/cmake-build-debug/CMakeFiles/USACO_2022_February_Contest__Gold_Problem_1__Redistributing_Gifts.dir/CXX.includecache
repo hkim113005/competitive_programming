@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/USACO 2022 February Contest, Gold Problem 1. Redistributing Gifts/main.cpp
+iostream
+-
+vector
+-
+math.h
+-
+

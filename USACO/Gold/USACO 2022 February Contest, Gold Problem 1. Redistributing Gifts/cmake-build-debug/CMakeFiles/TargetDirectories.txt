@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/USACO 2022 February Contest, Gold Problem 1. Redistributing Gifts/cmake-build-debug/CMakeFiles/USACO_2022_February_Contest__Gold_Problem_1__Redistributing_Gifts.dir
+C:/Users/hyung/CLionProjects/USACO 2022 February Contest, Gold Problem 1. Redistributing Gifts/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/USACO 2022 February Contest, Gold Problem 1. Redistributing Gifts/cmake-build-debug/CMakeFiles/rebuild_cache.dir

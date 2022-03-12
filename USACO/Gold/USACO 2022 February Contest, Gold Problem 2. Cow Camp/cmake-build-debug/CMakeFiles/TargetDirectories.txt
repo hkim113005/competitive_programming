@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/ USACO 2022 February Contest, Gold Problem 2. Cow Camp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/ USACO 2022 February Contest, Gold Problem 2. Cow Camp/cmake-build-debug/CMakeFiles/_USACO_2022_February_Contest__Gold_Problem_2__Cow_Camp.dir
+C:/Users/hyung/CLionProjects/ USACO 2022 February Contest, Gold Problem 2. Cow Camp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

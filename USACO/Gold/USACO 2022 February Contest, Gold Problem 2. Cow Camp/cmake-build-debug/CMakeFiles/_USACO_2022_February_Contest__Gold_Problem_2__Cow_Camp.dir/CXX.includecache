@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/ USACO 2022 February Contest, Gold Problem 2. Cow Camp/main.cpp
+iostream
+-
+math.h
+-
+

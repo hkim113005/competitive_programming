@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(USACO_2022_February_Contest__Gold_Problem_3__Moo_Network)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(USACO_2022_February_Contest__Gold_Problem_3__Moo_Network main.cpp)
