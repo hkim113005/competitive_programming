@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Competitive Programming/Codeforces/Codeforces Round #776 (Div. 3)/A. Deletions of Two Adjacent Letters/cmake-build-debug/CMakeFiles/A__Deletions_of_Two_Adjacent_Letters.dir
+C:/Users/hyung/CLionProjects/Competitive Programming/Codeforces/Codeforces Round #776 (Div. 3)/A. Deletions of Two Adjacent Letters/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Competitive Programming/Codeforces/Codeforces Round #776 (Div. 3)/A. Deletions of Two Adjacent Letters/cmake-build-debug/CMakeFiles/rebuild_cache.dir

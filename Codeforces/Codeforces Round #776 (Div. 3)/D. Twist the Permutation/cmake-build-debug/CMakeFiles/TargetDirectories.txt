@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Competitive Programming/D. Twist the Permutation/cmake-build-debug/CMakeFiles/D__Twist_the_Permutation.dir
+C:/Users/hyung/CLionProjects/Competitive Programming/D. Twist the Permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Competitive Programming/D. Twist the Permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

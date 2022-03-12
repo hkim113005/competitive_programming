@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "USACO_2019_February_Contest__Gold_Problem_1__Cow_Land",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "USACO_2019_February_Contest__Gold_Problem_1__Cow_Land::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USACO_2019_February_Contest__Gold_Problem_1__Cow_Land-Debug-ce6e3dce76eb561d1df4.json",
+					"name" : "USACO_2019_February_Contest__Gold_Problem_1__Cow_Land",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/hyungjaekim/Desktop/CS/USACO/Gold/USACO 2019 February Contest, Gold Problem 1. Cow Land/cmake-build-debug",
+		"source" : "/Users/hyungjaekim/Desktop/CS/USACO/Gold/USACO 2019 February Contest, Gold Problem 1. Cow Land"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

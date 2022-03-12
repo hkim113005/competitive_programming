@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyung/CLionProjects/Competitive Programming/Codeforces/Codeforces Round #776 (Div. 3)/A. Deletions of Two Adjacent Letters/main.cpp
+iostream
+-
+string
+-
+vector
+-
+
