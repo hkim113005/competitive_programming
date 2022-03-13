@@ -43,9 +43,34 @@ mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
 
 int t, n, m;
 int a[500005], b[500005];
+int x;
 
 void solve() {
-    cin >> n;
+    cin >> n >> x;
+    map<int, int> f;
+    FOR(i, n) {
+        cin >> a[i];
+        f[a[i]]++;
+    }
+    auto be = f.begin(), en = f.end();
+    for (auto i = be; i != en; i++) {
+        if (f.count(i->first * x)) {
+            if (f[i->first * x] > i->second) {
+                f[i->first * x] -= i->second;
+                i->second = 0;
+            }
+            else {
+                i->second -= f[i->first * x];
+                f[i->first * x] = 0;
+            }
+        }
+    }
+    int ans = 0;
+    be = f.begin(), en = f.end();
+    for (auto i = be; i != en; i++) {
+        ans += i->second;
+    }
+    cout << ans << endl;
 }
 
 int32_t main() {
@@ -55,3 +80,4 @@ int32_t main() {
     while (t--) solve();
     return 0;
 }
+

@@ -39,14 +39,39 @@ mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
 
 #define MOD (int)1e9 + 7
 #define MX (int)1e5 + 1
+#define INF (int)1e15
 
 int t, n, m;
+int a[500005], b[500005];
 
 void solve() {
     cin >> n;
     FOR(i, n) {
-        cout << i << endl;
+        cin >> a[i];
     }
+    FOR(i, n) {
+        cin >> b[i];
+    }
+
+    int ans = INF;
+    ans = min(ans, abs(a[0] - b[0]) + abs(a[n - 1] - b[n - 1]));
+    ans = min(ans, abs(a[0] - b[n - 1]) + abs(a[n - 1] - b[0]));
+    
+    int q[4] = { INF, INF, INF, INF };
+    FOR(i, n) {
+        q[0] = min(q[0], abs(a[0] - b[i]));
+        q[1] = min(q[1], abs(a[n - 1] - b[i]));
+        q[2] = min(q[2], abs(b[0] - a[i]));
+        q[3] = min(q[3], abs(b[n - 1] - a[i]));
+    }
+    ans = min(ans, abs(a[0] - b[0]) + q[1] + q[3]);
+    ans = min(ans, abs(a[n - 1] - b[0]) + q[0] + q[3]);
+    ans = min(ans, abs(a[0] - b[n - 1]) + q[1] + q[2]);
+    ans = min(ans, abs(a[n - 1] - b[n - 1]) + q[0] + q[2]);
+
+    ans = min(ans, q[0] + q[1] + q[2] + q[3]);
+
+    cout << ans << endl;
 }
 
 int32_t main() {

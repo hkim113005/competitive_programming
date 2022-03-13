@@ -46,6 +46,19 @@ int a[500005], b[500005];
 
 void solve() {
     cin >> n;
+    map<int, int> q;
+    FOR(i, n) {
+        cin >> a[i];
+        q[a[i]]++;
+    }
+    int cnt = 0;
+    for (auto i = q.begin(); i != q.end(); i++) {
+        cnt++;
+    }
+    FORi(i, n) {
+        cout << max(i, cnt) << " ";
+    }
+    cout << endl;
 }
 
 int32_t main() {
@@ -55,3 +68,4 @@ int32_t main() {
     while (t--) solve();
     return 0;
 }
+
