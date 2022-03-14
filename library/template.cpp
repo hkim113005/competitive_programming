@@ -13,12 +13,12 @@ using namespace std;
 template<class T> using pq = priority_queue<T>;
 template<class T> using pqg = priority_queue<T, vector<T>, greater<T>>;
 
-#define FOR(i, a, b) for (int i = a; i < b; i++)
+#define FORS(i, a, b) for (int i = a; i < b; i++)
 #define FOR(i, a) for (int i = 0; i < a; i++)
-#define FORm(i, a, b) for (int i = a - 1; i >= b; i--)
-#define FORm(i, a) for (int i = a - 1; i >= 0; i--)
-#define FORi(i, a, b) for (int i = a; i <= b; i++)
-#define FORi(i, a) for (int i = 1; i <= a; i++)
+#define FORSM(i, a, b) for (int i = a - 1; i >= b; i--)
+#define FORM(i, a) for (int i = a - 1; i >= 0; i--)
+#define FORSI(i, a, b) for (int i = a; i <= b; i++)
+#define FORI(i, a) for (int i = 1; i <= a; i++)
 #define TRAV(a, x) for (auto& a : x)
 #define UID(a, b) uniform_int_distribution<int>(a, b)(rng)
 
