@@ -117,6 +117,7 @@ if ! shopt -oq posix; then
 fi
 
 export LIB="~/cp/library"
+export DSU=$LIB/dsu.cpp
 
 export PATH=$PATH:~/cp/scripts/
 export PATH=$PATH:~/cp/library/
