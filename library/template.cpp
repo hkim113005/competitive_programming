@@ -33,11 +33,17 @@ int const MX = (int)1e5 + 5;
 int const INF = (int)1e9;
 // ll const INF = (int)1e15;
 
+int in() {
+    int x;
+    cin >> x;
+    return x;
+}
+
 int t, n, m;
 int a[500005], b[500005];
 
 void solve() {
-    cin >> n;
+    n = in();
 }
 
 int32_t main() {
