@@ -18,11 +18,11 @@ unset __conda_setup
 # Your previous /Users/hyungjaekim/.bash_profile file was backed up as /Users/hyungjaekim/.bash_profile.macports-saved_2021-08-11_at_13:17:43
 ##
 
-export PATH=$PATH:~/scripts/
+export PATH=$PATH:~/cp/scripts/
 export PATH=$PATH:~/cp/library/
 ulimit -s unlimited
 
-find ~/scripts/ -type f -iname "*.sh" -exec chmod +x {} \;
+find ~/cp/scripts/ -type f -iname "*.sh" -exec chmod +x {} \;
 find ~/cp/library/ -type f -iname "*.cpp" -exec chmod +x {} \;
 find ~/cp/library/ -type f -iname "*py" -exec chmod +x {} \;
 
