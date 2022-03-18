@@ -2,29 +2,20 @@
 
 using namespace std;
 
-#define int int64_t
-#define double long double
-#define pi pair<int, int>
-#define pd pair<double, double>
-#define vi vector<int>
-#define vd vector<double>
-#define vpi vector<pi>
+using ll = long long;
+using ld = long double;
 
+template<class T> using p = pair<T, T>;
+template<class T> using v = vector<T>;
 template<class T> using pq = priority_queue<T>;
 template<class T> using pqg = priority_queue<T, vector<T>, greater<T>>;
 
-#define FORS(i, a, b) for (int i = a; i < b; i++)
-#define FOR(i, a) for (int i = 0; i < a; i++)
-#define FORSM(i, a, b) for (int i = a - 1; i >= b; i--)
-#define FORM(i, a) for (int i = a - 1; i >= 0; i--)
-#define FORSI(i, a, b) for (int i = a; i <= b; i++)
-#define FORI(i, a) for (int i = 1; i <= a; i++)
-#define TRAV(a, x) for (auto& a : x)
-#define UID(a, b) uniform_int_distribution<int>(a, b)(rng)
+#define trav(a, x) for (auto& a : x)
+#define rdm(a, b) uniform_int_distribution<int>(a, b)(rng)
 
 #define len(x) (int)(x).size()
 #define mp make_pair
-#define pb push_back
+#define pb emplace_back
 #define x first
 #define y second
 #define lb lower_bound
@@ -37,9 +28,10 @@ template<class T> bool ckmax(T& a, const T& b) { return a < b ? a = b, true : fa
 
 mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
 
-#define MOD (int)1e9 + 7
-#define MX (int)1e5 + 1
-#define INF (int)1e15
+int const MOD = (int)1e9 + 7;
+int const MX = (int)1e5 + 5;
+int const INF = (int)1e9;
+// ll const INF = (int)1e15;
 
 int t, n, m;
 int a[500005], b[500005];
