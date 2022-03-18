@@ -20,6 +20,7 @@ inoremap {<CR> {<CR>}<Esc>O
 inoremap {} {}
 imap jk <Esc>
 map <C-a> <esc>ggVG<CR>
+inoremap <C-z> <C-o>:u<CR>
 set belloff=all
 
 autocmd BufNewFile *.cpp 0r /home/hkim/cp/library/template.cpp
