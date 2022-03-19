@@ -4,6 +4,7 @@ using namespace std;
 
 using ll = long long;
 using ld = long double;
+using pi = pair<int, int>;
 
 template<class T> using p = pair<T, T>;
 template<class T> using v = vector<T>;
@@ -16,8 +17,8 @@ template<class T> using pqg = priority_queue<T, vector<T>, greater<T>>;
 #define len(x) (int)(x).size()
 #define mp make_pair
 #define pb emplace_back
-#define x first
-#define y second
+#define ft first
+#define sd second
 #define lb lower_bound
 #define ub upper_bound
 #define all(x) x.begin(), x.end()
@@ -30,6 +31,7 @@ mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
 
 int const MOD = (int)1e9 + 7;
 int const MX = (int)1e5 + 5;
+int const N = (int)5e5 + 5;
 int const INF = (int)1e9;
 // ll const INF = (int)1e15;
 
@@ -39,8 +41,7 @@ int in() {
     return x;
 }
 
-int t, n, m;
-int a[500005], b[500005];
+int t, n;
 
 void solve() {
     n = in();
