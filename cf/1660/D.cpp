@@ -42,97 +42,67 @@ int in() {
 }
 
 int t, n;
-int a[N];
-int neg[N];
-int lx, rx;
-
-int count(int l, int r, bool b) {
-    int res = 0;
-    int negs = neg[r] - neg[l - 1];
-    
-    if (l > r) {
-        return 0;
-    }
-
-    if (l == r) {
-        if (l > 0) {
-            return l == 2;
-        }
-        else {
-            return 0;
-        }
-    }
-
-    if (negs % 2 == 0) {
-        if (b) {
-            lx = l;
-            rx = r;
-        }
-        for (int i = l; i <= r; i++) {
-            if (abs(a[i]) == 2) {
-                res++;
-            }
-        }
-        return res;
-    }
-    
-    for (int i = l; i < r; i++) {
-        if (a[i] < 0) {
-            int tmp = count(i + 1, r, false);
-            if (tmp > res) {
-                res = tmp;
-                lx = i + 1;
-                rx = r;
-            }
-            break;
-        }
-    }
-    for (int i = r; i > l; i--) {
-        if (a[i] < 0) {
-            int tmp = count(l, i - 1, false);
-            if (tmp > res) {
-                res = tmp;
-                lx = l;
-                rx = i - 1;
-            }
-            break;
-        }
-    }
-
-    return res;
-}
 
 void solve() {
     n = in();
-    neg[0] = 0;
+    int a[N];
     for (int i = 1; i <= n; i++) {
         cin >> a[i];
-        neg[i] = neg[i - 1] + (a[i] < 0 ? 1 : 0);
     }
-    lx = 1, rx = n;
+    a[n + 1] = 0;
 
-    int prev = 1;
-    int cnt = 0;
-    int l, r;
-    for (int i = 1; i <= n; i++) {
-        if (a[i] == 0) {
-            int tmp = count(prev, i - 1, true);
-            if (tmp > cnt) {
-                l = lx;
-                r = rx;
-                cnt = tmp;
+    int p = 0, p_max = 0;
+    int last_zero = 0;
+    int l = 1, r = 0;
+    int negs = 0, first = 0, last = 0, first_count = 0, last_count = 0;
+    for (int i = 1; i <= n + 1; i++) {
+        if (abs(a[i]) == 2) {
+            p++;
+            last_count++;
+        }
+        if (first == 0 && abs(a[i]) == 2) {
+            first_count++;
+        }
+        if (a[i] < 0) {
+            if (first == 0) {
+                first = i;
+                last = i;
+                last_count = 0;
             }
-            prev = i + 1;
+            else {
+                last = i;
+                last_count = 0;
+            }
+            
+            if (abs(a[i]) == 2) {
+                last_count++;
+            }
+            negs++;
+        }
+        else if (a[i] == 0) {
+            if (negs % 2 == 0) {
+                if (p > p_max) {
+                    p_max = p;
+                    l = last_zero + 1;
+                    r = i - 1;
+                }
+            }
+            else {
+                if (first_count > last_count && p - last_count > p_max) {
+                    p_max = p - last_count;
+                    l = last_zero + 1;
+                    r = last - 1;
+                }
+                else if (first_count <= last_count && p - first_count > p_max) {
+                    p_max = p - first_count;
+                    l = first + 1;
+                    r = i - 1;
+                }
+            }
+            last_zero = i;
+            p = negs = first = last = first_count = last_count = 0;
         }
     }
-
-    int tmp = count(prev, n, true);
-    if (tmp > cnt) {
-        l = lx;
-        r = rx;
-        cnt = tmp;
-    }
-
     cout << l - 1 << " " << n - r << endl;
 }
 
